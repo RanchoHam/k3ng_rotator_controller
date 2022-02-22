@@ -342,9 +342,10 @@ You can tweak these, but read the online documentation!
 // Changed in 2020.06.26.02
 // Serial Port Settings
 #define CONTROL_PORT_MAPPED_TO &Serial     // change this line to map the control port to a different serial port (Serial1, Serial2, etc.)
+////#define CONTROL_PORT_MAPPED_TO &Serial1     // change this line to map the control port to a different serial port (Serial1, Serial2, etc.)
 #define CONTROL_PORT_BAUD_RATE 9600
 //#define REMOTE_PORT Serial3                 // used to control remote unit
-#define REMOTE_UNIT_PORT_BAUD_RATE 9600 
+//#define REMOTE_UNIT_PORT_BAUD_RATE 9600 
 #define GPS_PORT Serial2
 #define GPS_PORT_BAUD_RATE 9600
 // #define GPS_MIRROR_PORT Serial1          // use this to mirror output from a GPS unit into the Arduino out another port (uncomment to enable)

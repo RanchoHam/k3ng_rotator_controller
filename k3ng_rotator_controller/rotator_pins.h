@@ -91,12 +91,14 @@
 #endif
 
 //classic 4 bit LCD pins
+/*
 #define lcd_4_bit_rs_pin 12
 #define lcd_4_bit_enable_pin 11
 #define lcd_4_bit_d4_pin 5
 #define lcd_4_bit_d5_pin 4
 #define lcd_4_bit_d6_pin 3
 #define lcd_4_bit_d7_pin 2
+*/
 
 
 #ifdef FEATURE_JOYSTICK_CONTROL
