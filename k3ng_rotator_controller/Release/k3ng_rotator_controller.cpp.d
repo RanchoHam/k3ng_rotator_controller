@@ -23,6 +23,13 @@ C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2
  C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_pins.h \
  C:\Users\wb0nre\Documents\Arduino\libraries\TinyGPS\src/TinyGPS.h \
+ C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\libraries\SPI\src/SPI.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Ethernet\src/Ethernet.h \
+ C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Client.h \
+ C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/IPAddress.h \
+ C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Server.h \
+ C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Udp.h \
+ C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/IPAddress.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_settings.h \
  C:\Users\wb0nre\Documents\Arduino\libraries\Time/TimeLib.h \
