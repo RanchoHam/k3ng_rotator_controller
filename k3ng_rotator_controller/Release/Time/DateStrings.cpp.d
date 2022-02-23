@@ -1,4 +1,4 @@
-C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Debug\Time\DateStrings.cpp.o: \
+C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\Time\DateStrings.cpp.o: \
  C:\Users\wb0nre\Documents\Arduino\libraries\Time\DateStrings.cpp \
  C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \
  C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/binary.h \

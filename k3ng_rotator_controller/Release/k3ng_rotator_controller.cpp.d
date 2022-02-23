@@ -22,8 +22,10 @@ C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_k3ngdisplay.h \
  C:\Users\wb0nre\AppData\Local\arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_pins.h \
+ C:\Users\wb0nre\Documents\Arduino\libraries\TinyGPS\src/TinyGPS.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_settings.h \
+ C:\Users\wb0nre\Documents\Arduino\libraries\Time/TimeLib.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_language.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_debug.h \
  C:\Users\wb0nre\AppData\Local\Temp\VMBuilds\k3ng_rotator_controller\mega_atmega2560\Release\rotator_debug_log_activation.h
